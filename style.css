@@ -1,0 +1,28 @@
+p {
+    margin: 10px;
+    padding: 15px 10px;
+    border: 10px solid;
+    background-color: tomato;
+    font-size: 25px;
+}
+
+.double p {
+    border-style: double;
+}
+
+.dashed p {
+    border-style: dashed;
+}
+
+.dotted {
+    border-style: dotted;
+}
+
+.inset p {
+    border-style: inset;
+}
+
+.solid p {
+    border-style: solid;
+    border-color: green blueviolet red yellow;
+}
